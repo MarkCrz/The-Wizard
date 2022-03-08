@@ -1,0 +1,5 @@
+Crowl: 850
+F: 600
+Elisberto: 600
+Math: 500
+Crowl: 800
